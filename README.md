@@ -1,6 +1,6 @@
 ### Hi there, I'm Raphaell 👋
 
-![RaphaellDev GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelldev&show_icons=true&theme=radical)
+![RaphaellDev GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaellDev&show_icons=true&theme=radical)
 
 ### I'm Current Learning 
 
